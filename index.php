@@ -70,8 +70,8 @@
                 <span class="mask bg-gradient-primary opacity-6"></span>
                   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; backdrop-filter: blur(5px); background-color: rgba(0, 0, 0, 0.3);"></div>
                   <div class="position-relative z-index-1">
-                    <h2 class="mt-5 text-white font-weight-bolder" style="color: black !important">Shtëpia Juaj, Më e Zgjuar</h2>
-                    <p class="text-white" style="font-weight: 600; font-size: 1rem; color: black !important">Monitoroni temperaturën, lagështinë dhe më shumë. Kontrolloni dritat, pajisjet dhe sigurinë të gjitha nga një vend.</p>
+                    <h2 class="mt-5 text-white font-weight-bolder">Shtëpia Juaj, Më e Zgjuar</h2>
+                    <p class="text-white" style="font-weight: 600; font-size: 1rem; word-spacing: 3px; letter-spacing: .5px;">Monitoroni temperaturën, lagështinë dhe më shumë. Kontrolloni dritat, pajisjet dhe sigurinë të gjitha nga një vend.</p>
                   </div>
                 </div>
               </div>
