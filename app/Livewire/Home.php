@@ -5,7 +5,7 @@ namespace App\Livewire;
 use Livewire\Component;
 use Illuminate\Support\Facades\Cache;
 
-class TestComponent extends Component
+class Home extends Component
 {
     public $latestData = 'Waiting for data...';
 
