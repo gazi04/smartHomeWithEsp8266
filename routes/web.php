@@ -18,6 +18,10 @@ Route::get('/send', function() {
 });
 Route::post('/sendData', [EspController::class, 'sendData'])->name('send-data-esp');
 
+Route::get('/get', function() {
+    return view('welcome');
+});
+
 Route::get('/dummy-data', function(){
     User::create([
         'name' => 'gazi',
